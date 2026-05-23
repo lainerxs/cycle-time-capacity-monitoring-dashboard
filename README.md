@@ -6,10 +6,10 @@ A web-based dashboard developed during my internship to monitor cycle time and c
 
 ## My Contributions
 
-- Developed frontend dashboard interfaces using HTML, CSS, and JavaScript
+- Co-Developed frontend dashboard interfaces using HTML, CSS, and JavaScript
 - Created data visualization and monitoring components
-- Designed user-friendly dashboard layouts
-- Assisted in testing and validating dashboard functionality
+- Co-Designed user-friendly dashboard layouts
+- Performed testing and validating dashboard functionality
 - Improved usability and accessibility of monitoring features
 
 ## Technologies Used
